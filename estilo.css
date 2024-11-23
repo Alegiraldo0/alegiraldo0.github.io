@@ -10,11 +10,7 @@
          background-color: black;
     }
     
-    .logo{
-    width: 150px;
-    height: 50px;
-    
-    } 
+  
 
     .titulo{
     
@@ -83,4 +79,9 @@
 
 .noferta{
     padding: 10%;
+}
+
+.wa{
+    display: flex;
+    justify-content: end;
 }
